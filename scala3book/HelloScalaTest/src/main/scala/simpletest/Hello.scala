@@ -1,0 +1,5 @@
+package simpletest
+
+object Hello {
+
+}
